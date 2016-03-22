@@ -1,0 +1,65 @@
+body {
+	background-color: #ebece4;
+	margin:0;
+	text-align: center;
+}
+
+nav {
+	background-color: #78bb47;
+}
+
+h1{
+	margin: 10px 0;
+}
+
+ul {
+	margin:0;
+	padding:0;
+}
+
+nav li{
+	display: inline-block;
+	padding: 0px;
+	margin: 0 20px;
+}
+
+nav li a{
+	font-family: arimo,Verdana;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	line-height: 40px;
+}
+h2{
+	font-family: arimo,Verdana;
+}
+p {
+	font-family: arimo,Verdana;
+}
+.spacer{
+	display:inline-block;
+	width: 3px;
+	height: 120px;
+	background-color: black;
+	vertical-align: center;
+}
+.services1{
+	display: inline-block;
+	width:480px;
+	vertical-align:left;
+}
+.services2{
+	display: inline-block;
+	width:480px;
+	vertical-align:right;
+}
+.conseil, .vehicule{
+	height: 50px;
+	margin-bottom: 20px;
+}
+.conseil p, .vehicule p{
+	display: inline-block;
+	margin: 5px 20px;
+	vertical-align: top;
+	width:70%;
+}
