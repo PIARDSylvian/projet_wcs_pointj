@@ -63,3 +63,16 @@ p {
 	vertical-align: top;
 	width:70%;
 }
+
+#contacteznous{
+	text-align:left;
+	margin-left: 10px;
+}
+
+#contacteznous h3{
+	font-size: 1.3em;
+}
+
+iframe{
+	border: 1px solid black;
+}
