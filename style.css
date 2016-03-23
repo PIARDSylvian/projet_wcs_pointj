@@ -97,11 +97,13 @@ a:hover{
 #accessoires {
     background-image: url("img/accessoires/accessoire1.png");
 }
-.imgservices {
-	width: 50px;
-}
-.services, .imgservices{
+
+.imgservices{
 	margin-top: 10px;
+}
+
+.services{
+	margin-top: 15px;
 	text-align: left;
 }
 
