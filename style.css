@@ -109,6 +109,20 @@ a:hover{
 	vertical-align: top;
 	width:70%;
 }
+<<<<<<< HEAD
+
+#contacteznous{
+	text-align:left;
+	margin-left: 10px;
+}
+
+#contacteznous h3{
+	font-size: 1.3em;
+}
+
+iframe{
+	border: 1px solid black;
+=======
 footer li{
 	list-style-type: none;
 }
@@ -124,4 +138,5 @@ margin-bottom: 20px;
  display: inline-block;
  vertical-align: top;
  list-style-type: none;
+>>>>>>> 4de1d542d56eb2628b2a33f79c63c8d6e9e45c09
 }
