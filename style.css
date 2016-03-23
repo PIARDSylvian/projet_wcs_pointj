@@ -32,7 +32,6 @@ nav li a{
 }
 
 .actu{
-	border: 1px solid black;
 	text-align: left;
 	padding:5px;
 	height:150px;
@@ -53,14 +52,27 @@ a:hover{
 	text-decoration: none;
 }
 
+.description{
+	opacity: 0;
+	color:#78bb47;
+	text-shadow: 0 5px 5px black;
+	font-size:2em;
+	line-height:150px;
+}
+.description:hover{
+	opacity: 1;
+}
 .illustration{
+	opacity: 0.8;
 	display: inline-block;
 	vertical-align: top;
-	background-color: black;
-	width: 300px;
-	height: 150px;
 	background-size: cover;
+	width:300px;
+	height:150px;
 	margin-top: 10px;
+}
+.illustration:hover{
+	opacity: 1;
 }
 
 #grosgalets {
@@ -71,8 +83,8 @@ a:hover{
     background-image: url("img/nouveaute/petitgalets.jpg");
 }
 
-#grille {
-    background-image: url("img/nouveaute/grille.jpg");
+#gazondeplacage {
+    background-image: url("img/nouveaute/gazondeplacage.png");
 }
 
 #mineral {
@@ -95,7 +107,6 @@ a:hover{
 }
 .services2{
 	display: inline-block;
-	width:480px;
 	margin-top:20px;
 	vertical-align:right;
 }
@@ -106,7 +117,7 @@ a:hover{
 .conseil p, .vehicule p{
 	display: inline-block;
 	margin: 5px 20px;
-	vertical-align: top;
+	vertical-align: left-top;
 	width:70%;
 }
 
@@ -123,6 +134,9 @@ iframe{
 	border: 1px solid black;
 }
 
+footer{
+	background-color:#78bb47;
+}
 footer li{
 	list-style-type: none;
 }
