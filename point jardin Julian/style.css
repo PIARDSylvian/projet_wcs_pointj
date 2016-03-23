@@ -11,35 +11,7 @@ margin: 10px;
 background-size: cover;
 }
 
-#grosgalets
-{
-    background-image: url("pictures/nouveaute/grosgalets.jpg");
-}
 
-#petitgalets
-{
-    background-image: url("pictures/nouveaute/petitgalets.jpg");
-}
-
-#grille
-{
-    background-image: url("pictures/nouveaute/grille.jpg");
-}
-
-#mineral
-{
-    background-image: url("pictures/mineral/mineral1.jpg");
-}
-
-#vegetal
-{
-    background-image: url("pictures/vegetal/vegetal1.jpg");
-}
-
-#accessoires
-{
-    background-image: url("pictures/accessoires/accessoire1.png");
-}
 
 footer 
 {

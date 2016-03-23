@@ -9,7 +9,7 @@ nav {
 }
 
 h1{
-	margin:0;
+	margin-top: 20px;
 }
 
 ul {
@@ -30,16 +30,29 @@ nav li a{
 	color: white;
 	line-height: 40px;
 }
+
+.actu{
+	border: 1px solid black;
+	text-align: left;
+	padding:5px;
+	height:150px;
+	background-color: #78bb47;
+	margin:10px;
+}
+
 h2{
 	font-family: arimo,Verdana;
 }
+
 p {
 	font-family: arimo,Verdana;
 }
+
 a:hover{
 	color: white;
 	text-decoration: none;
 }
+
 .illustration{
 	display: inline-block;
 	vertical-align: top;
@@ -110,6 +123,5 @@ margin-bottom: 20px;
 {
  display: inline-block;
  vertical-align: top;
- width: 24%;
  list-style-type: none;
 }
