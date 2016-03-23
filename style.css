@@ -65,7 +65,6 @@ a:hover{
 .illustration{
 	opacity: 0.8;
 	display: inline-block;
-	vertical-align: top;
 	background-size: cover;
 	width:300px;
 	height:150px;
@@ -98,27 +97,12 @@ a:hover{
 #accessoires {
     background-image: url("img/accessoires/accessoire1.png");
 }
-
-.services1{
-	display: inline-block;
-	width:480px;
-	margin-top:20px;
-	vertical-align:left;
+.imgservices {
+	width: 50px;
 }
-.services2{
-	display: inline-block;
-	margin-top:20px;
-	vertical-align:right;
-}
-.conseil, .vehicule{
-	height: 50px;
-	margin-bottom: 20px;
-}
-.conseil p, .vehicule p{
-	display: inline-block;
-	margin: 5px 20px;
-	vertical-align: left-top;
-	width:70%;
+.services, .imgservices{
+	margin-top: 10px;
+	text-align: left;
 }
 
 #contacteznous{
@@ -136,6 +120,7 @@ iframe{
 
 footer{
 	background-color:#78bb47;
+	margin-top: 10px;
 }
 footer li{
 	list-style-type: none;
