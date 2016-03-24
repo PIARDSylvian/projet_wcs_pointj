@@ -42,4 +42,5 @@
 			</div>
 		</div>
 	</div>
+	<h6 id="copyright">© 2016 Copyright PIARD Sylvian, XIAOYU Julian | <a href="">Terms</a> | <a href="">Privacy</a></h6>
 </footer>
