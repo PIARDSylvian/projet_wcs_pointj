@@ -11,31 +11,34 @@
 		<?php
 			include("./_header.php");
 		?>
+<!--nouveautés -->
 		<section>
 			<h2>Nos nouveautés</h2>
 			<div class="row">
 				<div class="col-xs-12 col-md-4">
-					<a href=""><div id="grosgalets" class="illustration"><strong><p class="description">Galet de rivière</p></strong></div></a>
+					<a href=""><div id="grosgalets" class="illustration"><p class="description">Galet de rivière</p></div></a>
 				</div>
 				<div class="col-xs-12 col-md-4">
-					<a href=""><div id="petitgalets" class="illustration"><strong><p class="description">Petit galet de rivière</p></strong></div></a>
+					<a href=""><div id="petitgalets" class="illustration"><p class="description">Petit galet de rivière</p></div></a>
 				</div>
 				<div class="col-xs-12 col-md-4">
-					<a href=""><div id="gazondeplacage" class="illustration"><strong><p class="description">Gazon de placage</p></strong></div></a>
+					<a href=""><div id="gazondeplacage" class="illustration"><p class="description">Gazon de placage</p></div></a>
 				</div>
 			</div>
+<!-- produits -->
 			<h2>Découvrez nos produits</h2>
 			<div class="row">
 				<div class="col-xs-12 col-md-4">
-					<a href=""><div id="mineral" class="illustration"><strong><p class="description">Mineral</p></strong></div></a>
+					<a href=""><div id="mineral" class="illustration"><p class="description">Mineral</p></div></a>
 				</div>
 				<div class="col-xs-12 col-md-4">
-					<a href=""><div id="vegetal" class="illustration"><strong><p class="description">Vegetal</p></strong></div></a>
+					<a href=""><div id="vegetal" class="illustration"><p class="description">Vegetal</p></div></a>
 				</div>
 				<div class="col-xs-12 col-md-4">
-					<a href=""><div id="accessoires" class="illustration"><strong><p class="description">accessoires</p></strong></div></a>
+					<a href=""><div id="accessoires" class="illustration"><p class="description">accessoires</p></div></a>
 				</div>
 			</div>
+<!-- services mag -->
 			<div class="row">
 				<div class="col-xs-2 col-xs-offset-1 col-md-1 col-md-offset-1">
 					<img class="imgservices" src="./img/quantite.jpg" alt="achat quantité">

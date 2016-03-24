@@ -15,7 +15,7 @@
 		<div class="col-xs-12 col-md-6">
 			<h2>Bienvenue chez POINT JARDIN !</h2>
 			<p>Paul et Laurentine vous accueillent dans votre nouveau point de vente de matériaux pour l’aménagement du jardin.</p>
-			<div class="actu">
+			<div class="news">
 				<p>News:</p>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit, mi eu scelerisque molestie, lorem enim lobortis ex, ut lobortis enim quam ac mauris. Aenean et nulla non massa ullamcorper molestie. Duis eget turpis non nisi ornare posuere.</p>
 			</div>
