@@ -1,7 +1,6 @@
 <header>
 	<nav>
-		<ul>kik
-
+		<ul>
 			<li><a href="./index.php">Accueil</a></li>
 			<li><a href="./services.php">Nos services</a></li>
 			<li><a href="./réalisation.php">Nos réalisations</a></li>
