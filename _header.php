@@ -10,7 +10,7 @@
 	</nav>
 	<div class="row">
 		<div class=" col-xs-12 col-md-6">
-			<h1><img src="./img/logo.jpg" alt="Point Jardin"></h1>
+			<h1><img id="logo" src="./img/logo.jpg" alt="Point Jardin"></h1>
 		</div>
 		<div class="col-xs-12 col-md-6">
 			<h2>Bienvenue chez POINT JARDIN !</h2>
