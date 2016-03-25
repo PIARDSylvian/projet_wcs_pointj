@@ -41,6 +41,8 @@
 				</ul>  
 			</div>
 		</div>
-	</div>
-	<h6 id="copyright">© 2016 Copyright PIARD Sylvian, XIAOYU Julian | <a href="">Terms</a> | <a href="">Privacy</a></h6>
+		<div class="col-xs-12 col-md-12">
+			<h6 id="copyright">© 2016 Copyright PIARD Sylvian, XIAOYU Julian | <a href="">Terms</a> | <a href="">Privacy</a></h6>
+		</div>
+	</div>	
 </footer>
